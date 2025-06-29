@@ -1,0 +1,11 @@
+aiohttp>=3.12.13
+numpy>=2.3.1
+pandas>=2.3.0
+plotly>=6.2.0
+python-telegram-bot>=22.1
+requests>=2.32.4
+scikit-learn>=1.7.0
+streamlit>=1.46.1
+yfinance>=0.2.63
+pandas-ta>=0.3.14
+rich>=14.0.0
